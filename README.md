@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello there! I'm Gustavo medeiros  <img src="https://giphy.com/gifs/dog-running-euVwF4P2b0sus" width="50">
+Hello there! I'm Gustavo medeiros  <img src="https://giphy.com/embed/euVwF4P2b0sus" width="50">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeiros-A&show_icons=true&theme=radical)
 

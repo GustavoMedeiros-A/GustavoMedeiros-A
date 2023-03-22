@@ -1,11 +1,11 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hello there! I'm Gustavo medeiros  <img src="https://giphy.com/embed/euVwF4P2b0sus" width="50">
+
+Hello there! I'm Gustavo Medeiros  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeiros-A&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeiros-A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
 <p align="center">
 <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="28">
 Skills and Technologies
@@ -15,8 +15,6 @@ Skills and Technologies
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,6 +25,10 @@ Skills and Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![JWT](https://img.shields.io/badge/JWT-1C1E24?style=for-the-badge&logo=JWT&logoColor=#D04A37)
+![MongoDB](https://img.shields.io/badge/mongodb-1C1E24?style=for-the-badge&logo=mongodb&logoColor=#00FF00)
+ 
+ 
   <br />
   <br />
   <p align="center">
@@ -34,5 +36,5 @@ Skills and Technologies
   Social Networks
  </p>
 
-  <a  href="https://www.linkedin.com/in/rafael-reis-de-oliveira-25633120b" target="_blank"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/gustavo-a-medeiros/" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br />

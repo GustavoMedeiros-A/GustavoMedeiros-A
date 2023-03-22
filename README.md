@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello there! I'm Gustavo medeiros  <img src="https://giphy.com/gifs/dog-running-euVwF4P2b0sus" width="50">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeiros_A&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeiros-A&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeiros_A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeiros-A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="28">

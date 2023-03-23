@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Hello there! I'm Gustavo Medeiros  
+Hello there! I'm Gustavo Medeiros! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMedeiros-A&show_icons=true&theme=radical)
 

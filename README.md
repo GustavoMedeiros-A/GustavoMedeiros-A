@@ -4,7 +4,7 @@ Hello there! I'm Gustavo Medeiros!
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoMedeiros-A&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoMedeiros-A)](https://github.com/GustavoMedeiros-A/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeiros-A&theme=tokyonight)
 </br>
 <p align="center">
 <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="28">

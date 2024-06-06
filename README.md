@@ -5,7 +5,7 @@ Hello there! I'm Gustavo Medeiros!
 ![GustavoMedeiros GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoMedeiros-A&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeiros-A&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMedeiros-A&langs_count=8&theme=tokyonight)
 </br>
 <p align="center">
 <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="28">
